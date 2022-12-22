@@ -597,6 +597,11 @@ html {
     width: 0.625rem;
 }
 
+.extend-item-text-title--h5 {
+    position: relative;
+    color: rgb(47, 49, 59);
+}
+
 .extend-item-para-title {
     color: rgba(47, 47, 47, 0.8);
     margin-bottom: 8px;
